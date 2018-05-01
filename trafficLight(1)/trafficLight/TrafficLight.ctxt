@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TrafficLight()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TrafficLight\r\n
+comment1.params=
+comment1.target=void\ change()
+comment1.text=\r\n\ If\ the\ traffic\ light\ shows\ STOP,\ it\ changes\ to\ GO.\r\n\ Use\ the\ pause\ method\ after\ each\ step\r\n\ If\ the\ traffic\ light\ shows\ GO,\ it\ changes\ to\ STOP.\r\n
+comment2.params=
+comment2.target=void\ pause()
+comment2.text=\r\n\ Do\ not\ change\ anything\ in\ the\ pause\ method\r\n
+numComments=3
